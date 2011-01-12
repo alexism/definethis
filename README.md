@@ -1,7 +1,4 @@
-
 ## DefineThis
-=================================================================
-
 DefineThis is a tiny Google Chrome extension that lets you look up 
 the selection in [TheFreeDictionary](http://www.thefreedictionary.com)
 from the context menu.
